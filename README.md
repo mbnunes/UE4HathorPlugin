@@ -1,5 +1,12 @@
 # UE4HathorPlugin v0.0.1
 
+## Requirements
+
+Unreal Engine 4.27
+VaRest Plugin
+
+## Hathor Plugin
+
 Guys, sorry for the delay. It is finally being born!
 
 There is still no application of a Queue to execute transactions with the Blockchain. As I have little time, I thought it best to share what I have already done using blueprints.
@@ -12,3 +19,4 @@ the variables to be changed are these:
 
 Community that understands C++ or Blueprints and can help with the queue and threads... I'm available for any questions.
 
+see the blueprint at https://blueprintue.com/blueprint/2po_acdl/ 
