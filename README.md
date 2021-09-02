@@ -2,8 +2,8 @@
 
 ## Requirements
 
-Unreal Engine 4.27
-VaRest Plugin
+- Unreal Engine 4.27
+- VaRest Plugin
 
 ## Hathor Plugin
 
