@@ -9,3 +9,6 @@ You just need to change the default value of the variables that are in the image
 the variables to be changed are these:
 
 ![Variables](https://mbnunes.com.br/imgs/UE4-HOW-TO-1.png)
+
+Community that understands C++ or Blueprints and can help with the queue and threads... I'm available for any questions.
+
